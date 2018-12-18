@@ -11,6 +11,7 @@
 - 前台
   - 前端 `React` + `React-Router` + `Css Modules`
   - 后端 `Egg`
+  - 服务端渲染 `Next`
 
 ### 数据库
 
