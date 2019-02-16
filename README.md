@@ -1,6 +1,6 @@
 ## 个人博客
 
-[https://blog.weigrand.com](https://blog.weigrand.com)
+[https://www.22infinite.com](https://www.22infinite.com)
 
 ### 技术栈
 
